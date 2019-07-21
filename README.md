@@ -2,14 +2,14 @@
 
 Unfriend inactive users PHP version
 
-© [dandyraka](https://github.com/dandyraka/FacebookUnfriend)
+© [Ezaa Nugraha](https://github.com/zaa4
 
 
 ## Installation
 
 
 ```terminal
-$ git clone https://github.com/M1n007/facebook-tools.git
+$ git clone https://github.com/zaa4/tools-fb
 $ cd facebook-tools
 $ npm install
 ```
